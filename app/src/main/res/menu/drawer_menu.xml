@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Profile" android:id="@+id/btnProfile" />
+    <item android:title="Follow Us" android:id="@+id/btnFollowUs" />
+    <item android:title="Rate Us" android:id="@+id/btnRateUs" />
+    <item android:title="About Us" android:id="@+id/btnAboutUs" />
+    <item android:title="Log Out" android:id="@+id/btnLogOut" />
+
+</menu>

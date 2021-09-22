@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quick Business</string>
+    <string name="welcome_to_quick_business">Welcome To Quick Business</string>
+    <string name="About_String">Quick Business App is generic business for any
+        business you want to create. After logging in, you can create the shops
+        for your businesses and add the products to your shops.</string>
+    <string name="Follow_String">Thanks For Following Us!!</string>
+    <string name="RateUs_String">Thanks For Rating Us!!</string>
+    <string name="SignUp_KeepGrowing_String">Keep Growing Your Business</string>
+    <string name="SignUp_Hint1">Enter your email address and password\nto get access to your account</string>
+    <string name="sign_upBTN_String">Sign Up</string>
+    <string name="SignUp_AlreadyAccount_String">Already have an account? Log in</string>
+
+</resources>

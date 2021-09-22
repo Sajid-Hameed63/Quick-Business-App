@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147213546366",
+    "project_id": "quick-business-4d1dc",
+    "storage_bucket": "quick-business-4d1dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147213546366:android:5cef87cd88ce816942b92f",
+        "android_client_info": {
+          "package_name": "com.example.quickbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147213546366-s0mu5r4gtoc44li54laof389mlp7grq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu1CT8XxtKyb_AySdPJrwoTy_tYJ5L1Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147213546366-s0mu5r4gtoc44li54laof389mlp7grq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
